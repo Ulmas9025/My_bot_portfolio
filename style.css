@@ -2,3 +2,11 @@ h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #c10d0d;
 }
+
+p{
+    font-size: 50px;
+    color: black;
+    background-color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
