@@ -1,0 +1,85 @@
+body {
+    background-image: url(../img/bacg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.info_block {
+    border: 1px solid #fff;
+    width: 800px;
+    height: 500px;
+    margin: 50px 250px;
+    background-color: #fff;
+    border-radius: 50px;
+    background-color: #F6F6F6;
+}
+
+.descriptions_shoe {
+    float: left;
+}
+
+.descriptions_text {
+    float: right;
+    width: 280px;
+    margin: 50px 10px 0 0px;
+    
+}
+
+.descriptions_text .description_title h1,
+h2,
+h3 {
+    text-transform: uppercase;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.descriptions_text .description_title h2,
+h3{
+    color: #0066DD;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+}
+.descriptions_text .description_title p{
+    line-height: 1.3;
+    font-weight: bold;
+    width: 290px;
+}
+.descriptions_text .description_title button{
+    text-transform: uppercase;
+    padding: 10px;
+    width: 300px;
+    background: #0066DD;
+    border-radius: 5px;
+    height: 40px;
+}
+.descriptions_text .description_title button a{
+    color: #fff;
+    display: block;
+    text-decoration: none;
+}
+.descriptions_img {
+    float: left;
+    padding: 10px;
+    margin: 110px 10px 0 0px;
+}
+.descriptions_img img {
+    width: 400px;
+}
+
+.info_transition .info_transition_title h2{
+    color: #0066DD;
+    margin: 0px 0px 8px 50px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.info_transition ul{
+    margin: 2px 0px 0px 10px;
+}
+.info_transition ul li{
+    display: inline;
+    border: 1px #0066DD solid;
+    padding: 9px;
+    margin: 0 -1px 0 -1px;
+}
+
+.info_transition ul li a{
+    text-decoration: none;
+    font-size: 20px;
+}
